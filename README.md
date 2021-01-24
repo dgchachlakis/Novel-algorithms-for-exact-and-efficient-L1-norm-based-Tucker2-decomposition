@@ -64,7 +64,7 @@ For instance:
 
 ![image](evolution.png)
 
-Finally, we can extract multiple components by means of standard defltation.
+Finally, we can extract multiple components by means of standard deflation.
 ```python
 # Extract multiple components by rank-1 BF-Tucker2 and defltation
 number_of_components = 3
